@@ -1,0 +1,22 @@
+.infoIcon {
+  padding: 0.625rem 0.625rem 0.625rem 0;
+}
+svg {
+  height: 2rem;
+  width: 2rem;
+}
+.readMore {
+  margin-top: 4px;
+}
+.readMore:hover {
+  color: red;
+  cursor: pointer;
+}
+.description {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  padding-top: 6px;
+}

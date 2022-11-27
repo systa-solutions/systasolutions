@@ -1,0 +1,13 @@
+{
+  "carousel": [
+    {
+      "src": "home.jpg",
+      "title": "title 1"
+    }
+  ],
+  "careers": [
+    "We are a professional information technology services organization aimed at improving your business performance through customized solutions, including project-based services. We align our support with your business objectives—whether to refine business processes, enhance enterprise-wide collaboration, or transform your industry value chain.",
+    "<h5>The right people</h5> Your goal is to focus on your core business. Our goal is to help you by offering comprehensive solutions. Providing you with the right talent at the right time is how it begins. From the law firm to the IT department to the medical facility to the factory, we’ll deliver the skilled professionals you need. We transform your ideas into actions.",
+    "<h5>Meeting your challenges</h5> We’ve been putting people to work at businesses of all sizes longer than any company in the world, and we know better than anyone else the types of workforce challenges that businesses face. We’ll work with you to define your needs and solve your specific challenges."
+  ]
+}

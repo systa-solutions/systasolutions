@@ -1,0 +1,37 @@
+{
+  "carousel": [
+    {
+      "src": "home.jpg",
+      "title": "title 1"
+    },
+    {
+      "src": "home2.jpeg",
+      "title": "title 2"
+    },
+
+    {
+      "src": "home3.webp",
+      "title": "titile 3"
+    }
+  ],
+  "infoData": [
+    {
+      "title": "Staffing",
+      "icon": "FcBusinesswoman",
+      "navigationLink": "/Staffing",
+      "description": "As technology is thriving day by day the need for good IT professionals has been increasing. At Systa Solutions the goal is to connect the best IT professionals in the industry to deliver the cutting edge technology projects."
+    },
+    {
+      "title": "Services",
+      "icon": "FcSettings",
+      "navigationLink": "/Services",
+      "description": "We value our highly skilled engineers, enabling them to provide advocacy and streamlined engineering solutions in a manner your company deserves."
+    },
+    {
+      "title": "Careers",
+      "icon": "FcPositiveDynamic",
+      "navigationLink": "/Careers",
+      "description": "We are always looking for qualified consultants. Our clients (both federal and commercial) are located all over the U.S. and require consultants with a variety of IT skill sets and backgrounds."
+    }
+  ]
+}

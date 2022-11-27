@@ -1,0 +1,17 @@
+.carousel-comp {
+  clear: both;
+  margin-top: 75px;
+}
+.carousel-comp img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+@media (max-width: 920px) {
+  .carousel-comp img {
+    object-fit: fill;
+  }
+  .each-slide-effect div {
+    height: 250px !important;
+  }
+}
