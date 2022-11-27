@@ -20,7 +20,10 @@ export const CarouselComponent = ({
                 height: `${height}`,
               }}
             >
-              <img src={element.src} alt={"img"} />
+              <img
+                src={process.env.PUBLIC_URL + "/" + element.src}
+                alt={"img"}
+              />
               {/* <span>{element.title}</span> */}
             </div>
           </div>
