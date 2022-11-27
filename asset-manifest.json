@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/systasolutions/static/css/main.7a55bfb2.css",
+    "main.js": "/systasolutions/static/js/main.f27a6947.js",
+    "static/js/787.28cb0dcd.chunk.js": "/systasolutions/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.png": "/systasolutions/static/media/logo.d5ba2e1bf50e1dcaf93d.png",
+    "index.html": "/systasolutions/index.html",
+    "main.7a55bfb2.css.map": "/systasolutions/static/css/main.7a55bfb2.css.map",
+    "main.f27a6947.js.map": "/systasolutions/static/js/main.f27a6947.js.map",
+    "787.28cb0dcd.chunk.js.map": "/systasolutions/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a55bfb2.css",
+    "static/js/main.f27a6947.js"
+  ]
+}
