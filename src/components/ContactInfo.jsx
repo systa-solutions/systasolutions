@@ -49,7 +49,7 @@ export const ContactInfo = () => {
                 <Card.Subtitle className="mb-2 text-muted">
                   Contact Us
                 </Card.Subtitle>
-                <Card.Text>xxxxxxxxxx</Card.Text>
+                <Card.Text> (636) 707 0526</Card.Text>
               </Card.Body>
             </Card>
           </Col>
@@ -68,7 +68,7 @@ export const ContactInfo = () => {
                 <Card.Subtitle className="mb-2 text-muted">
                   Email Us
                 </Card.Subtitle>
-                <Card.Text>infosystasol@gmail.com</Card.Text>
+                <Card.Text>info@systasolutions.com</Card.Text>
               </Card.Body>
             </Card>
           </Col>
