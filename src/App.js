@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 import { Navbarmenu } from "./components/Navbarmenu";
 import { Home } from "./Pages/Home";
@@ -12,7 +12,7 @@ import { Staffing } from "./Pages/Staffing";
 
 export const RoutesComponent = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Navbarmenu />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -23,6 +23,6 @@ export const RoutesComponent = () => {
         <Route path="Staffing" element={<Staffing />} />
       </Routes>
       <Copyright />
-    </BrowserRouter>
+    </HashRouter>
   );
 };
