@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/systasolutions/static/css/main.7a55bfb2.css",
-    "main.js": "/systasolutions/static/js/main.aa1cb3f5.js",
-    "static/js/787.28cb0dcd.chunk.js": "/systasolutions/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.png": "/systasolutions/static/media/logo.d5ba2e1bf50e1dcaf93d.png",
-    "index.html": "/systasolutions/index.html",
-    "main.7a55bfb2.css.map": "/systasolutions/static/css/main.7a55bfb2.css.map",
-    "main.aa1cb3f5.js.map": "/systasolutions/static/js/main.aa1cb3f5.js.map",
-    "787.28cb0dcd.chunk.js.map": "/systasolutions/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.7a55bfb2.css",
+    "main.js": "/static/js/main.2fd6ac8d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.png": "/static/media/logo.d5ba2e1bf50e1dcaf93d.png",
+    "index.html": "/index.html",
+    "main.7a55bfb2.css.map": "/static/css/main.7a55bfb2.css.map",
+    "main.2fd6ac8d.js.map": "/static/js/main.2fd6ac8d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a55bfb2.css",
-    "static/js/main.aa1cb3f5.js"
+    "static/js/main.2fd6ac8d.js"
   ]
 }
